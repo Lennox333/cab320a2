@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.ipynb
+
+small_flower_dataset/
+
+# keep code clean
+__pycache__/
+*.pyc
